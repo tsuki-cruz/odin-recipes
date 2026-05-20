@@ -1,0 +1,49 @@
+p {
+    color: pink;
+    background-color: purple;
+    font-family: "Comic Sans";
+    padding: 30px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    font-family: "Happy Monkey";
+    font-weight: 900;
+    padding: 30px;
+    margin: 40px;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: yellowgreen;
+    font-family: "Fruktur";
+    background-color: darkblue;
+    outline: hotpink;
+    padding: 30px;
+    margin: 40px;
+    box-sizing: border-box;
+}
+
+li {
+    color: orange;
+    font-family: "Happy Monkey";
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+ul {
+    outline: red;
+    padding: 50px;
+    margin: 50px;
+}
+
+ol {
+    outline: red;
+    padding: 50px;
+    margin: 50px;
+}
+
+
